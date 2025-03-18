@@ -13,7 +13,7 @@ console.log(listaAmigosSorteados)
         document.querySelector('#listaAmigos').appendChild(li);
         limpiarCaja();
     }else {
-        alert('Ingrese un nombre');
+        alert('Por favor, inserte un nombre');
     }
 
 }
